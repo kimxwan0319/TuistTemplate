@@ -10,7 +10,11 @@
 
 ### Getting Started
 
-generate the project
+1. Edit Project.swift
+
+   * `Project.swift` 파일을 열어 `<>` 안의 값들을 프로젝트에 맞게 설정해주세요.
+
+2. Generate the project
 
    ```bash
    tuist generate
