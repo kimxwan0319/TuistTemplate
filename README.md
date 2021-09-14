@@ -13,6 +13,7 @@
 1. Edit Project.swift
 
    * `Project.swift` 파일을 열어 `<>` 안의 값들을 프로젝트에 맞게 설정해주세요.
+   * `Podfile`이 있는 프로젝트이라면 `Podfile`도 함께 수정해주세요..!
 
 2. Generate the project
 
