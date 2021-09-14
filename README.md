@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/67373938/133176719-711f98d5-7b03-471d-a9ba-f8c8f2b29868.jpg" alt="VGPCfBJX" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/67373938/133176719-711f98d5-7b03-471d-a9ba-f8c8f2b29868.jpg" alt="VGPCfBJX" style="zoom:30%;" />
 
 # TuistTemplate
 
