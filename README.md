@@ -2,11 +2,11 @@
 
 # TuistTemplate
 
-> Tuist를 사용하는 프로젝트에서 쉽게 쓸 수 있는 템플릿 입니다.
-> [Releases](https://github.com/kimxwan0319/TuistTemplate/releases)에서 원하시는 템플릿을 다운받아주세요!
+Tuist를 사용하는 프로젝트에서 쉽게 쓸 수 있는 템플릿 입니다.
 
-> 모든 템플릿은 기본적으로 `storyboard`가 없어요
-> `storyboard`가 필요하시다면 [Tuist + Storyboard]()를 다운받아 주세요..!
+[Releases](https://github.com/kimxwan0319/TuistTemplate/releases)에서 원하시는 템플릿을 다운받아주세요!
+
+(모든 템플릿은 기본적으로 storyboard가 없어요. 필요하시다면 [Tuist + Storyboard]()를 다운받아 주세요..!)
 
 
 ### Getting Started
