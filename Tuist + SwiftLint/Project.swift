@@ -23,7 +23,7 @@ let project = Project(
             ],
             dependencies: [
                 .cocoapods(path: ".")
-            ],
+            ]
         )
     ]
 )
