@@ -20,9 +20,6 @@ let project = Project(
                     script: "${PODS_ROOT}/SwiftLint/swiftlint",
                     name: "SwiftLint"
                 )
-            ],
-            dependencies: [
-                .cocoapods(path: ".")
             ]
         )
     ]
