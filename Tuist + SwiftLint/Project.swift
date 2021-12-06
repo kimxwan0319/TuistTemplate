@@ -15,8 +15,8 @@ let project = Project(
             resources: [
                 "Resources/**"
             ],
-            actions: [
-                TargetAction.pre(
+            scripts: [
+                .pre(
                     script: "${PODS_ROOT}/SwiftLint/swiftlint",
                     name: "SwiftLint"
                 )
